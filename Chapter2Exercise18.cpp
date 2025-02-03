@@ -1,4 +1,4 @@
-/* Program File Name: Chapter2Exercise3.cpp
+/* Program File Name: Chapter2Exercise18.cpp
 Programmer: Bryan Hurley
 Date: February 2025
 Requirements: A soft drink company recently surveyed 16,500 of its customers and found that approximately 15 percent of those surveyed purchase one or 
