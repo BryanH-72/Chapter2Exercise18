@@ -12,7 +12,9 @@ Write a program that displays the following:
 using namespace std;
 int main()
 {
-    int nCust = 16500; //Number of Customers
+    int nCust; //Number of Customers
+    cout << "Enter Number of Customers: ";
+    cin >> nCust;
     cout << "Number of Customers Who Buy 1 Or More Drinks a Week: " << nCust * 0.15 << "\n"; //Number of Customers * 15 percent who buy
     cout << "Number of Customers Who Buy 1 or More Drinks a Week and Perfer Citrus: " << nCust * 0.15 * 0.58 << "\n"; //Number of Customers * 15 percent who buy * 58 percent who perfer citrus
 }
